@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "KickStarting RN",
-    "slug": "kickstartingreactnative",
-    "platforms": ["ios", "android", "web"],
+    "name": "React Native Navigation",
+    "slug": "yashkumarvermaRnNavigation",
+    "platforms": ["android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
