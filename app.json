@@ -15,8 +15,9 @@
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": ["**/*"],
-    "ios": {
-      "supportsTablet": true
+    "android": {
+      "package": "com.yashkumarverma.navigation",
+      "versionCode": 1
     }
   }
 }
